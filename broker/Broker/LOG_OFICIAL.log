@@ -1,0 +1,24 @@
+[INFO] 16:31:16:281 BROKER/(24144:24154): Se conecto un cliente. Hilo de atencion disparado
+[INFO] 16:31:16:395 BROKER/(24144:24154): Mensaje 1 guardado a partir de la posicion 0x4238730
+[INFO] 16:31:16:423 BROKER/(24144:24154): Nuevo mensaje agregado a CATCH_POKEMON
+[INFO] 16:31:26:723 BROKER/(24144:24159): Se conecto un cliente. Hilo de atencion disparado
+[INFO] 16:31:26:748 BROKER/(24144:24159): Mensaje 2 guardado a partir de la posicion 0x4238748
+[INFO] 16:31:26:792 BROKER/(24144:24159): Nuevo mensaje agregado a CATCH_POKEMON
+[INFO] 16:31:40:753 BROKER/(24144:24170): Se conecto un cliente. Hilo de atencion disparado
+[INFO] 16:31:40:796 BROKER/(24144:24170): Mensaje 3 guardado a partir de la posicion 0x4238761
+[INFO] 16:31:40:807 BROKER/(24144:24170): Nuevo mensaje agregado a CAUGHT_POKEMON
+[INFO] 16:31:52:772 BROKER/(24144:24173): Se conecto un cliente. Hilo de atencion disparado
+[INFO] 16:31:52:791 BROKER/(24144:24173): Mensaje 4 guardado a partir de la posicion 0x4238771
+[INFO] 16:31:52:803 BROKER/(24144:24173): Nuevo mensaje agregado a CAUGHT_POKEMON
+[INFO] 16:32:19:477 BROKER/(24144:24193): Se conecto un cliente. Hilo de atencion disparado
+[INFO] 16:32:19:496 BROKER/(24144:24193): Mensaje 5 guardado a partir de la posicion 0x4238781
+[INFO] 16:32:19:527 BROKER/(24144:24193): Nuevo mensaje agregado a CATCH_POKEMON
+[INFO] 16:32:28:310 BROKER/(24144:24205): Se conecto un cliente. Hilo de atencion disparado
+[INFO] 16:32:28:345 BROKER/(24144:24205): Mensaje 6 guardado a partir de la posicion 0x423879b
+[INFO] 16:32:28:356 BROKER/(24144:24205): Nuevo mensaje agregado a CATCH_POKEMON
+[INFO] 16:32:39:435 BROKER/(24144:24208): Se conecto un cliente. Hilo de atencion disparado
+[INFO] 16:32:39:514 BROKER/(24144:24208): Mensaje 7 guardado a partir de la posicion 0x42387b6
+[INFO] 16:32:39:519 BROKER/(24144:24208): Nuevo mensaje agregado a GET_POKEMON
+[INFO] 16:32:46:699 BROKER/(24144:24216): Se conecto un cliente. Hilo de atencion disparado
+[INFO] 16:32:46:707 BROKER/(24144:24216): Mensaje 8 guardado a partir de la posicion 0x42387c6
+[INFO] 16:32:46:711 BROKER/(24144:24216): Nuevo mensaje agregado a GET_POKEMON

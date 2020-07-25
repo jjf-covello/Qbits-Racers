@@ -1,0 +1,830 @@
+[INFO] 15:51:55:261 Servidor/(10708:10708): Levantamos el servidor
+
+[INFO] 15:51:55:261 Servidor/(10708:10708): Servidor listo para recibir un cliente
+
+[INFO] 15:58:12:925 Servidor/(11030:11030): Levantamos el servidor
+
+[INFO] 15:58:12:925 Servidor/(11030:11030): Servidor listo para recibir un cliente
+
+[INFO] 16:08:55:911 Servidor/(11450:11450): Levantamos el servidor
+
+[INFO] 16:08:55:911 Servidor/(11450:11450): Servidor listo para recibir un cliente
+
+[INFO] 16:11:31:943 Servidor/(11610:11610): Levantamos el servidor
+
+[INFO] 16:11:31:943 Servidor/(11610:11610): Servidor listo para recibir un cliente
+
+[INFO] 16:22:18:266 Servidor/(12012:12012): Levantamos el servidor
+
+[INFO] 16:22:18:267 Servidor/(12012:12012): Servidor listo para recibir un cliente
+
+[INFO] 16:23:42:735 Servidor/(12061:12061): Levantamos el servidor
+
+[INFO] 16:23:42:735 Servidor/(12061:12061): Servidor listo para recibir un cliente
+
+[INFO] 16:48:22:872 Servidor/(12972:12972): Levantamos el servidor
+
+[INFO] 16:48:22:874 Servidor/(12972:12972): Servidor listo para recibir un cliente
+
+[INFO] 16:52:12:731 Servidor/(13160:13160): Levantamos el servidor
+
+[INFO] 16:52:12:738 Servidor/(13160:13160): Servidor listo para recibir un cliente
+
+[INFO] 16:59:59:648 Servidor/(13600:13600): Levantamos el servidor
+
+[INFO] 16:59:59:652 Servidor/(13600:13600): Servidor listo para recibir un cliente
+
+[INFO] 12:42:54:774 Servidor/(3726:3726): Levantamos el servidor
+
+[INFO] 12:42:54:775 Servidor/(3726:3726): Servidor listo para recibir un cliente
+
+[INFO] 16:39:47:203 Servidor/(10545:10545): Levantamos el servidor
+
+[INFO] 16:39:47:204 Servidor/(10545:10545): Servidor listo para recibir un cliente
+
+[INFO] 18:09:53:814 Servidor/(5943:5943): Levantamos el servidor
+
+[INFO] 18:09:53:841 Servidor/(5943:5943): Servidor listo para recibir un cliente
+
+[INFO] 18:12:50:27 Servidor/(5943:5943): Recibimos un cliente
+
+[INFO] 18:12:50:56 Servidor/(5943:6161): Recibimos conexion 
+
+[INFO] 18:13:34:539 Servidor/(5943:6161): Se desconecto el cliente
+
+[INFO] 18:13:56:956 Servidor/(5943:5943): Recibimos un cliente
+
+[INFO] 18:13:56:981 Servidor/(5943:6252): Recibimos conexion 
+
+[INFO] 18:14:24:608 Servidor/(5943:6252): Se desconecto el cliente
+
+[INFO] 18:16:15:128 Servidor/(5943:5943): Recibimos un cliente
+
+[INFO] 18:16:15:152 Servidor/(5943:6395): Recibimos conexion 
+
+[INFO] 21:21:43:367 Servidor/(8642:8642): Levantamos el servidor
+
+[INFO] 21:21:43:367 Servidor/(8642:8642): Servidor listo para recibir un cliente
+
+[INFO] 21:27:07:361 Servidor/(8834:8834): Levantamos el servidor
+
+[INFO] 21:27:07:362 Servidor/(8834:8834): Servidor listo para recibir un cliente
+
+[INFO] 21:27:18:712 Servidor/(8834:8834): Recibimos un cliente
+
+[INFO] 21:27:29:744 Servidor/(8834:8879): Recibimos conexion 
+
+[INFO] 21:28:15:909 Servidor/(8913:8913): Levantamos el servidor
+
+[INFO] 21:28:15:911 Servidor/(8913:8913): Servidor listo para recibir un cliente
+
+[INFO] 21:28:26:453 Servidor/(8913:8913): Recibimos un cliente
+
+[INFO] 21:28:36:715 Servidor/(8913:8956): Recibimos conexion 
+
+[INFO] 21:37:47:411 Servidor/(9283:9283): Levantamos el servidor
+
+[INFO] 21:37:47:413 Servidor/(9283:9283): Servidor listo para recibir un cliente
+
+[INFO] 21:38:03:154 Servidor/(9283:9283): Recibimos un cliente
+
+[INFO] 21:38:08:66 Servidor/(9283:9339): Recibimos conexion 
+
+[INFO] 21:48:25:163 Servidor/(9784:9784): Levantamos el servidor
+
+[INFO] 21:48:25:164 Servidor/(9784:9784): Servidor listo para recibir un cliente
+
+[INFO] 21:48:56:944 Servidor/(9784:9784): Recibimos un cliente
+
+[INFO] 21:49:00:636 Servidor/(9784:9853): Recibimos conexion 
+
+[INFO] 21:58:43:375 Servidor/(10096:10096): Levantamos el servidor
+
+[INFO] 21:58:43:377 Servidor/(10096:10096): Servidor listo para recibir un cliente
+
+[INFO] 21:59:03:778 Servidor/(10096:10096): Recibimos un cliente
+
+[INFO] 21:59:06:788 Servidor/(10096:10141): Recibimos conexion 
+
+[INFO] 23:03:39:708 Servidor/(11535:11535): Levantamos el servidor
+
+[INFO] 23:03:39:708 Servidor/(11535:11535): Servidor listo para recibir un cliente
+
+[INFO] 23:03:51:389 Servidor/(11535:11535): Recibimos un cliente
+
+[INFO] 23:03:55:900 Servidor/(11535:11582): Recibimos conexion 
+
+[INFO] 23:06:39:681 Servidor/(11697:11697): Levantamos el servidor
+
+[INFO] 23:06:39:681 Servidor/(11697:11697): Servidor listo para recibir un cliente
+
+[INFO] 23:06:57:364 Servidor/(11697:11697): Recibimos un cliente
+
+[INFO] 23:07:02:426 Servidor/(11697:11743): Recibimos conexion 
+
+[INFO] 23:14:55:664 Servidor/(11968:11968): Levantamos el servidor
+
+[INFO] 23:14:55:664 Servidor/(11968:11968): Servidor listo para recibir un cliente
+
+[INFO] 23:15:00:805 Servidor/(11968:11968): Recibimos un cliente
+
+[INFO] 23:15:03:858 Servidor/(11968:11984): Recibimos conexion 
+
+[INFO] 23:26:42:845 Servidor/(12315:12315): Levantamos el servidor
+
+[INFO] 23:26:42:845 Servidor/(12315:12315): Servidor listo para recibir un cliente
+
+[INFO] 23:26:56:706 Servidor/(12315:12315): Recibimos un cliente
+
+[INFO] 23:26:59:477 Servidor/(12315:12360): Recibimos conexion 
+
+[INFO] 23:33:10:336 Servidor/(12680:12680): Levantamos el servidor
+
+[INFO] 23:33:10:340 Servidor/(12680:12680): Servidor listo para recibir un cliente
+
+[INFO] 23:33:22:575 Servidor/(12680:12680): Recibimos un cliente
+
+[INFO] 23:33:27:197 Servidor/(12680:12727): Recibimos conexion 
+
+[INFO] 23:37:02:967 Servidor/(12846:12846): Levantamos el servidor
+
+[INFO] 23:37:02:968 Servidor/(12846:12846): Servidor listo para recibir un cliente
+
+[INFO] 23:37:12:98 Servidor/(12846:12846): Recibimos un cliente
+
+[INFO] 23:37:14:718 Servidor/(12846:12889): Recibimos conexion 
+
+[INFO] 23:43:36:348 Servidor/(13034:13034): Levantamos el servidor
+
+[INFO] 23:43:36:348 Servidor/(13034:13034): Servidor listo para recibir un cliente
+
+[INFO] 23:43:46:921 Servidor/(13034:13034): Recibimos un cliente
+
+[INFO] 23:44:51:945 Servidor/(13034:13078): Recibimos conexion 
+
+[INFO] 23:48:14:883 Servidor/(13219:13219): Levantamos el servidor
+
+[INFO] 23:48:14:884 Servidor/(13219:13219): Servidor listo para recibir un cliente
+
+[INFO] 23:48:28:217 Servidor/(13219:13219): Recibimos un cliente
+
+[INFO] 23:48:35:438 Servidor/(13219:13267): Recibimos conexion 
+
+[INFO] 00:02:54:889 Servidor/(13642:13642): Levantamos el servidor
+
+[INFO] 00:02:54:889 Servidor/(13642:13642): Servidor listo para recibir un cliente
+
+[INFO] 00:03:17:434 Servidor/(13642:13642): Recibimos un cliente
+
+[INFO] 00:03:20:202 Servidor/(13642:13727): Recibimos conexion 
+
+[INFO] 09:46:46:685 Servidor/(4174:4174): Levantamos el servidor
+
+[INFO] 09:46:46:685 Servidor/(4174:4174): Servidor listo para recibir un cliente
+
+[INFO] 09:48:07:54 Servidor/(4245:4245): Levantamos el servidor
+
+[INFO] 09:48:07:55 Servidor/(4245:4245): Servidor listo para recibir un cliente
+
+[INFO] 09:49:05:993 Servidor/(4245:4245): Recibimos un cliente
+
+[INFO] 09:49:05:1 Servidor/(4245:4382): Recibimos conexion 
+
+[INFO] 10:10:46:484 Servidor/(4916:4916): Levantamos el servidor
+
+[INFO] 10:10:46:484 Servidor/(4916:4916): Servidor listo para recibir un cliente
+
+[INFO] 10:10:50:695 Servidor/(4916:4916): Recibimos un cliente
+
+[INFO] 10:10:50:708 Servidor/(4916:4934): Recibimos conexion 
+
+[INFO] 10:18:27:438 Servidor/(5030:5030): Levantamos el servidor
+
+[INFO] 10:18:27:438 Servidor/(5030:5030): Servidor listo para recibir un cliente
+
+[INFO] 10:18:38:209 Servidor/(5030:5030): Recibimos un cliente
+
+[INFO] 10:18:38:228 Servidor/(5030:5073): Recibimos conexion 
+
+[INFO] 10:30:19:696 Servidor/(5437:5437): Levantamos el servidor
+
+[INFO] 10:30:19:696 Servidor/(5437:5437): Servidor listo para recibir un cliente
+
+[INFO] 10:30:33:919 Servidor/(5437:5437): Recibimos un cliente
+
+[INFO] 10:30:33:939 Servidor/(5437:5481): Recibimos conexion 
+
+[INFO] 10:38:44:174 Servidor/(5647:5647): Levantamos el servidor
+
+[INFO] 10:38:44:175 Servidor/(5647:5647): Servidor listo para recibir un cliente
+
+[INFO] 10:39:09:719 Servidor/(5647:5647): Recibimos un cliente
+
+[INFO] 10:39:09:731 Servidor/(5647:5690): Recibimos conexion 
+
+[INFO] 10:52:56:309 Servidor/(6483:6483): Levantamos el servidor
+
+[INFO] 10:52:56:309 Servidor/(6483:6483): Servidor listo para recibir un cliente
+
+[INFO] 10:53:05:981 Servidor/(6483:6483): Recibimos un cliente
+
+[INFO] 10:53:05:995 Servidor/(6483:6531): Recibimos conexion 
+
+[INFO] 11:01:53:7 Servidor/(6731:6731): Levantamos el servidor
+
+[INFO] 11:01:54:7 Servidor/(6731:6731): Servidor listo para recibir un cliente
+
+[INFO] 11:02:12:818 Servidor/(6731:6731): Recibimos un cliente
+
+[INFO] 11:02:12:829 Servidor/(6731:6776): Recibimos conexion 
+
+[INFO] 11:15:56:856 Servidor/(7088:7088): Levantamos el servidor
+
+[INFO] 11:15:56:858 Servidor/(7088:7088): Servidor listo para recibir un cliente
+
+[INFO] 11:16:07:839 Servidor/(7088:7088): Recibimos un cliente
+
+[INFO] 11:16:07:859 Servidor/(7088:7134): Recibimos conexion 
+
+[INFO] 12:02:34:271 Servidor/(8018:8018): Levantamos el servidor
+
+[INFO] 12:02:34:272 Servidor/(8018:8018): Servidor listo para recibir un cliente
+
+[INFO] 12:02:46:480 Servidor/(8018:8018): Recibimos un cliente
+
+[INFO] 12:02:46:496 Servidor/(8018:8069): Recibimos conexion 
+
+[INFO] 12:13:21:343 Servidor/(8814:8814): Levantamos el servidor
+
+[INFO] 12:13:21:395 Servidor/(8814:8814): Servidor listo para recibir un cliente
+
+[INFO] 12:13:40:993 Servidor/(8814:8814): Recibimos un cliente
+
+[INFO] 12:13:41:40 Servidor/(8814:8861): Recibimos conexion 
+
+[INFO] 12:27:54:363 Servidor/(9126:9126): Levantamos el servidor
+
+[INFO] 12:27:54:417 Servidor/(9126:9126): Servidor listo para recibir un cliente
+
+[INFO] 12:28:36:688 Servidor/(9126:9126): Recibimos un cliente
+
+[INFO] 12:28:36:742 Servidor/(9126:9174): Recibimos conexion 
+
+[INFO] 12:37:43:324 Servidor/(9455:9455): Levantamos el servidor
+
+[INFO] 12:37:43:355 Servidor/(9455:9455): Servidor listo para recibir un cliente
+
+[INFO] 12:37:53:184 Servidor/(9455:9455): Recibimos un cliente
+
+[INFO] 12:37:53:298 Servidor/(9455:9497): Recibimos conexion 
+
+[INFO] 12:41:53:816 Servidor/(9596:9596): Levantamos el servidor
+
+[INFO] 12:41:53:850 Servidor/(9596:9596): Servidor listo para recibir un cliente
+
+[INFO] 12:42:13:720 Servidor/(9596:9596): Recibimos un cliente
+
+[INFO] 12:42:13:759 Servidor/(9596:9639): Recibimos conexion 
+
+[INFO] 12:55:45:593 Servidor/(9806:9806): Levantamos el servidor
+
+[INFO] 12:55:45:624 Servidor/(9806:9806): Servidor listo para recibir un cliente
+
+[INFO] 12:55:55:401 Servidor/(9806:9806): Recibimos un cliente
+
+[INFO] 12:55:55:477 Servidor/(9806:9847): Recibimos conexion 
+
+[INFO] 12:58:11:571 Servidor/(9927:9927): Levantamos el servidor
+
+[INFO] 12:58:11:600 Servidor/(9927:9927): Servidor listo para recibir un cliente
+
+[INFO] 12:58:21:213 Servidor/(9927:9927): Recibimos un cliente
+
+[INFO] 12:58:21:271 Servidor/(9927:9966): Recibimos conexion 
+
+[INFO] 12:59:39:677 Servidor/(10022:10022): Levantamos el servidor
+
+[INFO] 12:59:39:720 Servidor/(10022:10022): Servidor listo para recibir un cliente
+
+[INFO] 12:59:51:306 Servidor/(10022:10022): Recibimos un cliente
+
+[INFO] 12:59:51:358 Servidor/(10022:10060): Recibimos conexion 
+
+[INFO] 13:04:00:437 Servidor/(10149:10149): Levantamos el servidor
+
+[INFO] 13:04:00:444 Servidor/(10149:10149): Servidor listo para recibir un cliente
+
+[INFO] 13:04:10:788 Servidor/(10149:10149): Recibimos un cliente
+
+[INFO] 13:04:10:798 Servidor/(10149:10304): Recibimos conexion 
+
+[INFO] 13:45:50:650 Servidor/(10906:10906): Levantamos el servidor
+
+[INFO] 13:45:50:650 Servidor/(10906:10906): Servidor listo para recibir un cliente
+
+[INFO] 13:47:50:353 Servidor/(10906:10906): Recibimos un cliente
+
+[INFO] 13:47:50:368 Servidor/(10906:10972): Recibimos conexion 
+
+[INFO] 14:00:07:809 Servidor/(11179:11179): Levantamos el servidor
+
+[INFO] 14:00:07:809 Servidor/(11179:11179): Servidor listo para recibir un cliente
+
+[INFO] 14:00:17:786 Servidor/(11179:11179): Recibimos un cliente
+
+[INFO] 14:00:30:160 Servidor/(11179:11225): Recibimos conexion 
+
+[INFO] 14:20:02:324 Servidor/(11342:11342): Levantamos el servidor
+
+[INFO] 14:20:02:325 Servidor/(11342:11342): Servidor listo para recibir un cliente
+
+[INFO] 14:20:11:177 Servidor/(11342:11342): Recibimos un cliente
+
+[INFO] 14:20:16:195 Servidor/(11342:11392): Recibimos conexion 
+
+[INFO] 14:53:39:750 Servidor/(11905:11905): Levantamos el servidor
+
+[INFO] 14:53:39:750 Servidor/(11905:11905): Servidor listo para recibir un cliente
+
+[INFO] 14:53:52:442 Servidor/(11905:11905): Recibimos un cliente
+
+[INFO] 14:53:55:909 Servidor/(11905:11948): Recibimos conexion 
+
+[INFO] 14:56:34:760 Servidor/(12033:12033): Levantamos el servidor
+
+[INFO] 14:56:34:761 Servidor/(12033:12033): Servidor listo para recibir un cliente
+
+[INFO] 14:56:41:893 Servidor/(12033:12033): Recibimos un cliente
+
+[INFO] 14:56:44:928 Servidor/(12033:12077): Recibimos conexion 
+
+[INFO] 15:05:08:286 Servidor/(12257:12257): Levantamos el servidor
+
+[INFO] 15:05:08:287 Servidor/(12257:12257): Servidor listo para recibir un cliente
+
+[INFO] 15:05:18:454 Servidor/(12257:12257): Recibimos un cliente
+
+[INFO] 15:05:20:0 Servidor/(12257:12302): Recibimos conexion 
+
+[INFO] 15:08:16:470 Servidor/(12396:12396): Levantamos el servidor
+
+[INFO] 15:08:16:475 Servidor/(12396:12396): Servidor listo para recibir un cliente
+
+[INFO] 15:08:24:580 Servidor/(12396:12396): Recibimos un cliente
+
+[INFO] 15:08:26:856 Servidor/(12396:12441): Recibimos conexion 
+
+[INFO] 15:09:35:400 Servidor/(12485:12485): Levantamos el servidor
+
+[INFO] 15:09:35:402 Servidor/(12485:12485): Servidor listo para recibir un cliente
+
+[INFO] 15:09:42:722 Servidor/(12485:12485): Recibimos un cliente
+
+[INFO] 15:09:45:578 Servidor/(12485:12526): Recibimos conexion 
+
+[INFO] 15:19:32:567 Servidor/(12790:12790): Levantamos el servidor
+
+[INFO] 15:19:32:568 Servidor/(12790:12790): Servidor listo para recibir un cliente
+
+[INFO] 15:19:42:623 Servidor/(12790:12790): Recibimos un cliente
+
+[INFO] 15:19:46:932 Servidor/(12790:12839): Recibimos conexion 
+
+[INFO] 15:24:27:162 Servidor/(12969:12969): Levantamos el servidor
+
+[INFO] 15:24:27:163 Servidor/(12969:12969): Servidor listo para recibir un cliente
+
+[INFO] 15:24:59:259 Servidor/(12969:12969): Recibimos un cliente
+
+[INFO] 15:25:02:116 Servidor/(12969:13015): Recibimos conexion 
+
+[INFO] 15:28:28:612 Servidor/(13199:13199): Levantamos el servidor
+
+[INFO] 15:28:28:613 Servidor/(13199:13199): Servidor listo para recibir un cliente
+
+[INFO] 15:29:10:140 Servidor/(13199:13199): Recibimos un cliente
+
+[INFO] 15:29:12:568 Servidor/(13199:13258): Recibimos conexion 
+
+[INFO] 15:32:06:949 Servidor/(13358:13358): Levantamos el servidor
+
+[INFO] 15:32:06:950 Servidor/(13358:13358): Servidor listo para recibir un cliente
+
+[INFO] 15:32:19:342 Servidor/(13358:13358): Recibimos un cliente
+
+[INFO] 15:32:27:759 Servidor/(13358:13403): Recibimos conexion 
+
+[INFO] 15:39:24:690 Servidor/(13560:13560): Levantamos el servidor
+
+[INFO] 15:39:24:691 Servidor/(13560:13560): Servidor listo para recibir un cliente
+
+[INFO] 15:39:34:855 Servidor/(13560:13560): Recibimos un cliente
+
+[INFO] 15:39:37:75 Servidor/(13560:13604): Recibimos conexion 
+
+[INFO] 15:58:50:433 Servidor/(13842:13842): Levantamos el servidor
+
+[INFO] 15:58:50:507 Servidor/(13842:13842): Servidor listo para recibir un cliente
+
+[INFO] 15:59:05:659 Servidor/(13842:13842): Recibimos un cliente
+
+[INFO] 15:59:05:716 Servidor/(13842:13881): Recibimos conexion 
+
+[INFO] 16:03:08:407 Servidor/(13970:13970): Levantamos el servidor
+
+[INFO] 16:03:08:453 Servidor/(13970:13970): Servidor listo para recibir un cliente
+
+[INFO] 16:03:29:604 Servidor/(13970:13970): Recibimos un cliente
+
+[INFO] 16:03:29:659 Servidor/(13970:14009): Recibimos conexion 
+
+[INFO] 16:05:16:897 Servidor/(14047:14047): Levantamos el servidor
+
+[INFO] 16:05:16:927 Servidor/(14047:14047): Servidor listo para recibir un cliente
+
+[INFO] 16:05:31:131 Servidor/(14047:14047): Recibimos un cliente
+
+[INFO] 16:05:31:179 Servidor/(14047:14087): Recibimos conexion 
+
+[INFO] 16:12:44:892 Servidor/(14296:14296): Levantamos el servidor
+
+[INFO] 16:12:45:208 Servidor/(14296:14296): Servidor listo para recibir un cliente
+
+[INFO] 16:12:49:844 Servidor/(14296:14296): Recibimos un cliente
+
+[INFO] 16:12:49:906 Servidor/(14296:14337): Recibimos conexion 
+
+[INFO] 16:43:44:994 Servidor/(14907:14907): Levantamos el servidor
+
+[INFO] 16:43:44:995 Servidor/(14907:14907): Servidor listo para recibir un cliente
+
+[INFO] 16:47:26:744 Servidor/(14907:14907): Recibimos un cliente
+
+[INFO] 16:47:29:347 Servidor/(14907:15054): Recibimos conexion 
+
+[INFO] 17:40:06:27 Servidor/(15994:15994): Levantamos el servidor
+
+[INFO] 17:40:06:27 Servidor/(15994:15994): Servidor listo para recibir un cliente
+
+[INFO] 17:41:41:174 Servidor/(16080:16080): Levantamos el servidor
+
+[INFO] 17:41:41:174 Servidor/(16080:16080): Fallo el bind 
+ 
+[INFO] 17:43:33:803 Servidor/(16238:16238): Levantamos el servidor
+
+[INFO] 17:43:33:804 Servidor/(16238:16238): Servidor listo para recibir un cliente
+
+[INFO] 17:47:59:750 Servidor/(16432:16432): Levantamos el servidor
+
+[INFO] 17:47:59:750 Servidor/(16432:16432): Servidor listo para recibir un cliente
+
+[INFO] 17:54:42:704 Servidor/(16709:16709): Levantamos el servidor
+
+[INFO] 17:54:42:705 Servidor/(16709:16709): Servidor listo para recibir un cliente
+
+[INFO] 17:55:36:209 Servidor/(16709:16709): Recibimos un cliente
+
+[INFO] 17:55:37:800 Servidor/(16709:16782): Recibimos conexion 
+
+[INFO] 18:02:58:889 Servidor/(17096:17096): Levantamos el servidor
+
+[INFO] 18:02:58:889 Servidor/(17096:17096): Servidor listo para recibir un cliente
+
+[INFO] 18:03:10:537 Servidor/(17096:17096): Recibimos un cliente
+
+[INFO] 18:03:12:529 Servidor/(17096:17145): Recibimos conexion 
+
+[INFO] 18:08:21:97 Servidor/(17328:17328): Levantamos el servidor
+
+[INFO] 18:08:21:98 Servidor/(17328:17328): Servidor listo para recibir un cliente
+
+[INFO] 18:08:33:900 Servidor/(17328:17328): Recibimos un cliente
+
+[INFO] 18:08:36:639 Servidor/(17328:17374): Recibimos conexion 
+
+[INFO] 18:20:27:77 Servidor/(17526:17526): Levantamos el servidor
+
+[INFO] 18:20:27:78 Servidor/(17526:17526): Servidor listo para recibir un cliente
+
+[INFO] 18:20:37:780 Servidor/(17526:17526): Recibimos un cliente
+
+[INFO] 18:20:39:969 Servidor/(17526:17572): Recibimos conexion 
+
+[INFO] 18:25:44:874 Servidor/(17747:17747): Levantamos el servidor
+
+[INFO] 18:25:44:874 Servidor/(17747:17747): Servidor listo para recibir un cliente
+
+[INFO] 18:25:54:463 Servidor/(17747:17747): Recibimos un cliente
+
+[INFO] 18:25:56:164 Servidor/(17747:17791): Recibimos conexion 
+
+[INFO] 18:32:02:190 Servidor/(18344:18344): Levantamos el servidor
+
+[INFO] 18:32:02:196 Servidor/(18344:18344): Servidor listo para recibir un cliente
+
+[INFO] 18:32:15:34 Servidor/(18344:18344): Recibimos un cliente
+
+[INFO] 18:32:17:982 Servidor/(18344:18388): Recibimos conexion 
+
+[INFO] 18:56:52:448 Servidor/(18777:18777): Levantamos el servidor
+
+[INFO] 18:56:52:453 Servidor/(18777:18777): Servidor listo para recibir un cliente
+
+[INFO] 18:56:59:847 Servidor/(18777:18777): Recibimos un cliente
+
+[INFO] 18:57:02:110 Servidor/(18777:18827): Recibimos conexion 
+
+[INFO] 20:30:53:412 Servidor/(2679:2679): Levantamos el servidor
+
+[INFO] 20:30:53:434 Servidor/(2679:2679): Servidor listo para recibir un cliente
+
+[INFO] 20:31:09:681 Servidor/(2679:2679): Recibimos un cliente
+
+[INFO] 20:31:09:693 Servidor/(2679:2731): Recibimos conexion 
+
+[INFO] 20:53:39:154 Servidor/(3400:3400): Levantamos el servidor
+
+[INFO] 20:53:39:154 Servidor/(3400:3400): Servidor listo para recibir un cliente
+
+[INFO] 20:53:48:456 Servidor/(3400:3400): Recibimos un cliente
+
+[INFO] 20:53:48:475 Servidor/(3400:3444): Recibimos conexion 
+
+[INFO] 20:54:27:365 Servidor/(3481:3481): Levantamos el servidor
+
+[INFO] 20:54:27:367 Servidor/(3481:3481): Servidor listo para recibir un cliente
+
+[INFO] 20:54:37:803 Servidor/(3481:3481): Recibimos un cliente
+
+[INFO] 20:54:37:816 Servidor/(3481:3524): Recibimos conexion 
+
+[INFO] 20:58:24:878 Servidor/(3745:3745): Levantamos el servidor
+
+[INFO] 20:58:24:909 Servidor/(3745:3745): Servidor listo para recibir un cliente
+
+[INFO] 20:58:36:449 Servidor/(3745:3745): Recibimos un cliente
+
+[INFO] 20:58:36:494 Servidor/(3745:3787): Recibimos conexion 
+
+[INFO] 22:50:16:716 Servidor/(5284:5284): Levantamos el servidor
+
+[INFO] 22:50:16:716 Servidor/(5284:5284): Servidor listo para recibir un cliente
+
+[INFO] 22:50:30:303 Servidor/(5284:5284): Recibimos un cliente
+
+[INFO] 22:50:30:314 Servidor/(5284:5332): Recibimos conexion 
+
+[INFO] 22:52:30:77 Servidor/(5428:5428): Levantamos el servidor
+
+[INFO] 22:52:30:80 Servidor/(5428:5428): Servidor listo para recibir un cliente
+
+[INFO] 22:52:48:346 Servidor/(5428:5428): Recibimos un cliente
+
+[INFO] 22:52:48:359 Servidor/(5428:5472): Recibimos conexion 
+
+[INFO] 22:55:17:984 Servidor/(5598:5598): Levantamos el servidor
+
+[INFO] 22:55:17:984 Servidor/(5598:5598): Servidor listo para recibir un cliente
+
+[INFO] 22:55:30:425 Servidor/(5598:5598): Recibimos un cliente
+
+[INFO] 22:55:30:438 Servidor/(5598:5643): Recibimos conexion 
+
+[INFO] 23:06:50:728 Servidor/(6029:6029): Levantamos el servidor
+
+[INFO] 23:06:50:728 Servidor/(6029:6029): Servidor listo para recibir un cliente
+
+[INFO] 23:06:58:496 Servidor/(6029:6029): Recibimos un cliente
+
+[INFO] 23:06:58:515 Servidor/(6029:6070): Recibimos conexion 
+
+[INFO] 23:13:59:628 Servidor/(6314:6314): Levantamos el servidor
+
+[INFO] 23:13:59:628 Servidor/(6314:6314): Servidor listo para recibir un cliente
+
+[INFO] 23:14:10:75 Servidor/(6314:6314): Recibimos un cliente
+
+[INFO] 23:14:10:86 Servidor/(6314:6358): Recibimos conexion 
+
+[INFO] 23:21:18:268 Servidor/(6532:6532): Levantamos el servidor
+
+[INFO] 23:21:18:269 Servidor/(6532:6532): Servidor listo para recibir un cliente
+
+[INFO] 23:21:28:113 Servidor/(6532:6532): Recibimos un cliente
+
+[INFO] 23:21:28:143 Servidor/(6532:6575): Recibimos conexion 
+
+[INFO] 23:25:40:33 Servidor/(6696:6696): Levantamos el servidor
+
+[INFO] 23:25:40:34 Servidor/(6696:6696): Servidor listo para recibir un cliente
+
+[INFO] 23:26:45:255 Servidor/(6696:6696): Recibimos un cliente
+
+[INFO] 23:26:45:265 Servidor/(6696:6748): Recibimos conexion 
+
+[INFO] 23:31:57:146 Servidor/(6890:6890): Levantamos el servidor
+
+[INFO] 23:31:57:147 Servidor/(6890:6890): Servidor listo para recibir un cliente
+
+[INFO] 23:32:06:622 Servidor/(6890:6890): Recibimos un cliente
+
+[INFO] 23:32:06:638 Servidor/(6890:6934): Recibimos conexion 
+
+[INFO] 23:35:02:725 Servidor/(7103:7103): Levantamos el servidor
+
+[INFO] 23:35:02:725 Servidor/(7103:7103): Servidor listo para recibir un cliente
+
+[INFO] 23:35:11:399 Servidor/(7103:7103): Recibimos un cliente
+
+[INFO] 23:35:11:411 Servidor/(7103:7145): Recibimos conexion 
+
+[INFO] 23:36:45:940 Servidor/(7236:7236): Levantamos el servidor
+
+[INFO] 23:36:45:941 Servidor/(7236:7236): Servidor listo para recibir un cliente
+
+[INFO] 23:36:55:38 Servidor/(7236:7236): Recibimos un cliente
+
+[INFO] 23:36:55:51 Servidor/(7236:7277): Recibimos conexion 
+
+[INFO] 01:02:18:158 Servidor/(8197:8197): Levantamos el servidor
+
+[INFO] 01:02:18:158 Servidor/(8197:8197): Servidor listo para recibir un cliente
+
+[INFO] 01:02:26:434 Servidor/(8197:8197): Recibimos un cliente
+
+[INFO] 01:02:26:444 Servidor/(8197:8238): Recibimos conexion 
+
+[INFO] 01:14:46:816 Servidor/(8377:8377): Levantamos el servidor
+
+[INFO] 01:14:46:817 Servidor/(8377:8377): Servidor listo para recibir un cliente
+
+[INFO] 01:14:54:308 Servidor/(8377:8377): Recibimos un cliente
+
+[INFO] 01:14:54:321 Servidor/(8377:8422): Recibimos conexion 
+
+[INFO] 01:25:05:284 Servidor/(8694:8694): Levantamos el servidor
+
+[INFO] 01:25:05:285 Servidor/(8694:8694): Servidor listo para recibir un cliente
+
+[INFO] 01:25:12:208 Servidor/(8694:8694): Recibimos un cliente
+
+[INFO] 01:25:12:220 Servidor/(8694:8743): Recibimos conexion 
+
+[INFO] 01:32:50:984 Servidor/(9001:9001): Levantamos el servidor
+
+[INFO] 01:32:50:985 Servidor/(9001:9001): Servidor listo para recibir un cliente
+
+[INFO] 01:32:57:476 Servidor/(9001:9001): Recibimos un cliente
+
+[INFO] 01:32:57:486 Servidor/(9001:9045): Recibimos conexion 
+
+[INFO] 01:39:40:399 Servidor/(9204:9204): Levantamos el servidor
+
+[INFO] 01:39:40:399 Servidor/(9204:9204): Servidor listo para recibir un cliente
+
+[INFO] 01:39:52:87 Servidor/(9204:9204): Recibimos un cliente
+
+[INFO] 01:39:52:96 Servidor/(9204:9248): Recibimos conexion 
+
+[INFO] 01:50:57:118 Servidor/(9610:9610): Levantamos el servidor
+
+[INFO] 01:50:57:118 Servidor/(9610:9610): Servidor listo para recibir un cliente
+
+[INFO] 01:51:09:286 Servidor/(9610:9610): Recibimos un cliente
+
+[INFO] 01:51:09:295 Servidor/(9610:9652): Recibimos conexion 
+
+[INFO] 01:51:33:388 Servidor/(9610:9652): Se desconecto el cliente
+
+[INFO] 01:52:10:937 Servidor/(9726:9726): Levantamos el servidor
+
+[INFO] 01:52:10:942 Servidor/(9726:9726): Servidor listo para recibir un cliente
+
+[INFO] 01:52:18:289 Servidor/(9726:9726): Recibimos un cliente
+
+[INFO] 01:52:18:299 Servidor/(9726:9766): Recibimos conexion 
+
+[INFO] 01:56:00:389 Servidor/(9905:9905): Levantamos el servidor
+
+[INFO] 01:56:00:389 Servidor/(9905:9905): Servidor listo para recibir un cliente
+
+[INFO] 01:56:13:634 Servidor/(9905:9905): Recibimos un cliente
+
+[INFO] 01:56:13:644 Servidor/(9905:9947): Recibimos conexion 
+
+[INFO] 02:32:37:720 Servidor/(10532:10532): Levantamos el servidor
+
+[INFO] 02:32:37:721 Servidor/(10532:10532): Servidor listo para recibir un cliente
+
+[INFO] 02:33:14:499 Servidor/(10580:10580): Levantamos el servidor
+
+[INFO] 02:33:14:499 Servidor/(10580:10580): Servidor listo para recibir un cliente
+
+[INFO] 02:33:31:192 Servidor/(10580:10580): Recibimos un cliente
+
+[INFO] 02:33:33:833 Servidor/(10580:10630): Recibimos conexion 
+
+[INFO] 02:35:47:754 Servidor/(10713:10713): Levantamos el servidor
+
+[INFO] 02:35:47:754 Servidor/(10713:10713): Servidor listo para recibir un cliente
+
+[INFO] 02:35:54:484 Servidor/(10713:10713): Recibimos un cliente
+
+[INFO] 02:35:56:522 Servidor/(10713:10758): Recibimos conexion 
+
+[INFO] 02:39:07:705 Servidor/(10880:10880): Levantamos el servidor
+
+[INFO] 02:39:07:706 Servidor/(10880:10880): Servidor listo para recibir un cliente
+
+[INFO] 02:39:22:31 Servidor/(10880:10880): Recibimos un cliente
+
+[INFO] 02:39:24:964 Servidor/(10880:10931): Recibimos conexion 
+
+[INFO] 02:46:55:643 Servidor/(11244:11244): Levantamos el servidor
+
+[INFO] 02:46:55:644 Servidor/(11244:11244): Servidor listo para recibir un cliente
+
+[INFO] 02:47:04:529 Servidor/(11244:11244): Recibimos un cliente
+
+[INFO] 02:47:06:663 Servidor/(11244:11292): Recibimos conexion 
+
+[INFO] 02:58:23:842 Servidor/(11438:11438): Levantamos el servidor
+
+[INFO] 02:58:23:849 Servidor/(11438:11438): Servidor listo para recibir un cliente
+
+[INFO] 02:58:31:141 Servidor/(11438:11438): Recibimos un cliente
+
+[INFO] 02:58:31:150 Servidor/(11438:11483): Recibimos conexion 
+
+[INFO] 03:01:33:355 Servidor/(11540:11540): Levantamos el servidor
+
+[INFO] 03:01:33:356 Servidor/(11540:11540): Servidor listo para recibir un cliente
+
+[INFO] 03:01:40:569 Servidor/(11540:11540): Recibimos un cliente
+
+[INFO] 03:01:40:580 Servidor/(11540:11582): Recibimos conexion 
+
+[INFO] 03:06:52:345 Servidor/(11781:11781): Levantamos el servidor
+
+[INFO] 03:06:52:345 Servidor/(11781:11781): Servidor listo para recibir un cliente
+
+[INFO] 03:07:00:199 Servidor/(11781:11781): Recibimos un cliente
+
+[INFO] 03:07:00:208 Servidor/(11781:11825): Recibimos conexion 
+
+[INFO] 03:08:44:820 Servidor/(11957:11957): Levantamos el servidor
+
+[INFO] 03:08:44:820 Servidor/(11957:11957): Servidor listo para recibir un cliente
+
+[INFO] 03:08:52:283 Servidor/(11957:11957): Recibimos un cliente
+
+[INFO] 03:08:52:296 Servidor/(11957:11998): Recibimos conexion 
+
+[INFO] 03:13:55:231 Servidor/(12150:12150): Levantamos el servidor
+
+[INFO] 03:13:55:232 Servidor/(12150:12150): Servidor listo para recibir un cliente
+
+[INFO] 03:14:03:510 Servidor/(12150:12150): Recibimos un cliente
+
+[INFO] 03:14:03:519 Servidor/(12150:12194): Recibimos conexion 
+
+[INFO] 03:27:01:148 Servidor/(12341:12341): Levantamos el servidor
+
+[INFO] 03:27:01:150 Servidor/(12341:12341): Servidor listo para recibir un cliente
+
+[INFO] 03:27:09:855 Servidor/(12341:12341): Recibimos un cliente
+
+[INFO] 03:27:09:863 Servidor/(12341:12384): Recibimos conexion 
+
+[INFO] 03:34:47:947 Servidor/(12559:12559): Levantamos el servidor
+
+[INFO] 03:34:47:949 Servidor/(12559:12559): Servidor listo para recibir un cliente
+
+[INFO] 03:34:55:925 Servidor/(12559:12559): Recibimos un cliente
+
+[INFO] 03:34:55:934 Servidor/(12559:12601): Recibimos conexion 
+
+[INFO] 03:36:11:424 Servidor/(12648:12648): Levantamos el servidor
+
+[INFO] 03:36:11:425 Servidor/(12648:12648): Servidor listo para recibir un cliente
+
+[INFO] 03:36:21:983 Servidor/(12648:12648): Recibimos un cliente
+
+[INFO] 03:36:21:992 Servidor/(12648:12688): Recibimos conexion 
+
+[INFO] 03:39:30:308 Servidor/(12890:12890): Levantamos el servidor
+
+[INFO] 03:39:30:310 Servidor/(12890:12890): Servidor listo para recibir un cliente
+
+[INFO] 03:39:41:142 Servidor/(12890:12890): Recibimos un cliente
+
+[INFO] 03:39:41:151 Servidor/(12890:12931): Recibimos conexion 
+
+[INFO] 03:44:27:21 Servidor/(13077:13077): Levantamos el servidor
+
+[INFO] 03:44:27:21 Servidor/(13077:13077): Servidor listo para recibir un cliente
+
+[INFO] 03:44:34:520 Servidor/(13077:13077): Recibimos un cliente
+
+[INFO] 03:44:34:535 Servidor/(13077:13120): Recibimos conexion 
+

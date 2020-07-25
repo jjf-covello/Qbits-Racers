@@ -1,0 +1,43 @@
+[INFO] 16:30:53:179 BROKER/(24144:24144): 24144
+[INFO] 16:30:54:422 BROKER/(24144:24144): Server Broker arriba
+[INFO] 16:31:16:288 BROKER/(24144:24154): Se conecto un cliente. Hilo de atencion disparado
+[INFO] 16:31:16:324 BROKER/(24144:24154): Llego un CATCH_POKEMON
+[INFO] 16:31:16:400 BROKER/(24144:24154): Mensaje 1 guardado a partir de la posicion 0x4238730
+[INFO] 16:31:16:425 BROKER/(24144:24154): Nuevo mensaje agregado a CATCH_POKEMON
+[INFO] 16:31:16:444 BROKER/(24144:24154): Se atendio el pedido correctamente
+[INFO] 16:31:26:734 BROKER/(24144:24159): Se conecto un cliente. Hilo de atencion disparado
+[INFO] 16:31:26:742 BROKER/(24144:24159): Llego un CATCH_POKEMON
+[INFO] 16:31:26:758 BROKER/(24144:24159): Mensaje 2 guardado a partir de la posicion 0x4238748
+[INFO] 16:31:26:798 BROKER/(24144:24159): Nuevo mensaje agregado a CATCH_POKEMON
+[INFO] 16:31:26:801 BROKER/(24144:24159): Se atendio el pedido correctamente
+[INFO] 16:31:40:762 BROKER/(24144:24170): Se conecto un cliente. Hilo de atencion disparado
+[INFO] 16:31:40:764 BROKER/(24144:24170): Llego un CAUGHT_POKEMON
+[INFO] 16:31:40:800 BROKER/(24144:24170): Mensaje 3 guardado a partir de la posicion 0x4238761
+[INFO] 16:31:40:815 BROKER/(24144:24170): Nuevo mensaje agregado a CAUGHT_POKEMON
+[INFO] 16:31:40:820 BROKER/(24144:24170): Se atendio el pedido correctamente
+[INFO] 16:31:52:778 BROKER/(24144:24173): Se conecto un cliente. Hilo de atencion disparado
+[INFO] 16:31:52:789 BROKER/(24144:24173): Llego un CAUGHT_POKEMON
+[INFO] 16:31:52:801 BROKER/(24144:24173): Mensaje 4 guardado a partir de la posicion 0x4238771
+[INFO] 16:31:52:803 BROKER/(24144:24173): Nuevo mensaje agregado a CAUGHT_POKEMON
+[INFO] 16:31:52:805 BROKER/(24144:24173): Se atendio el pedido correctamente
+[INFO] 16:32:19:481 BROKER/(24144:24193): Se conecto un cliente. Hilo de atencion disparado
+[INFO] 16:32:19:492 BROKER/(24144:24193): Llego un CATCH_POKEMON
+[INFO] 16:32:19:515 BROKER/(24144:24193): Mensaje 5 guardado a partir de la posicion 0x4238781
+[INFO] 16:32:19:527 BROKER/(24144:24193): Nuevo mensaje agregado a CATCH_POKEMON
+[INFO] 16:32:19:527 BROKER/(24144:24193): Se atendio el pedido correctamente
+[INFO] 16:32:28:323 BROKER/(24144:24205): Se conecto un cliente. Hilo de atencion disparado
+[INFO] 16:32:28:340 BROKER/(24144:24205): Llego un CATCH_POKEMON
+[INFO] 16:32:28:354 BROKER/(24144:24205): Mensaje 6 guardado a partir de la posicion 0x423879b
+[INFO] 16:32:28:356 BROKER/(24144:24205): Nuevo mensaje agregado a CATCH_POKEMON
+[INFO] 16:32:28:358 BROKER/(24144:24205): Se atendio el pedido correctamente
+[INFO] 16:32:39:441 BROKER/(24144:24208): Se conecto un cliente. Hilo de atencion disparado
+[INFO] 16:32:39:487 BROKER/(24144:24208): Llego un GET_POKEMON
+[INFO] 16:32:39:517 BROKER/(24144:24208): Mensaje 7 guardado a partir de la posicion 0x42387b6
+[INFO] 16:32:39:522 BROKER/(24144:24208): Nuevo mensaje agregado a GET_POKEMON
+[INFO] 16:32:39:527 BROKER/(24144:24208): Se atendio el pedido correctamente
+[INFO] 16:32:46:705 BROKER/(24144:24216): Se conecto un cliente. Hilo de atencion disparado
+[INFO] 16:32:46:705 BROKER/(24144:24216): Llego un GET_POKEMON
+[INFO] 16:32:46:708 BROKER/(24144:24216): Mensaje 8 guardado a partir de la posicion 0x42387c6
+[INFO] 16:32:46:712 BROKER/(24144:24216): Nuevo mensaje agregado a GET_POKEMON
+[INFO] 16:32:46:719 BROKER/(24144:24216): Se atendio el pedido correctamente
+[INFO] 16:33:39:359 BROKER/(24144:24144): Particiones dumpeadas
